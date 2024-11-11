@@ -16,7 +16,7 @@ Tech Stack-
     Data: MovieLens dataset or a custom dataset of movies
 
 Installation:
-      git clone https://github.com/your-username/movie-recommendation-system.git
+      git clone https://github.com/imsudhanshu09/Movie_Recommendation.git
       cd movie-recommendation-system
       pip install -r requirements.txt
 
