@@ -6,7 +6,7 @@ Built using **Python**, **Streamlit**, and **Machine Learning**, it combines dat
 ---
 
 ## 🌐 Live Demo
-🎥 **Try it here:** [Movie Recommendation App](https://imsudhanshu09-movie-recommendation.streamlit.app/)
+🎥 **Try it here:** [Movie Recommendation App](https://imsudhanshu09-movie-recommendation-app-uxojgu.streamlit.app/)
 
 ---
 
