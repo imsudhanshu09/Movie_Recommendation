@@ -161,7 +161,7 @@ To contribute:
 5. Submit a pull request 🎉  
 ```
 ## 📝 License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
 You’re free to use, modify, and distribute it with proper attribution.
 
 ⭐ Support
