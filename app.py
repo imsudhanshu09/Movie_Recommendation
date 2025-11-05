@@ -182,7 +182,7 @@ movies_data, similarity = load_data()
 # ----------------------------------------------------
 # TMDB Poster API
 # ----------------------------------------------------
-TMDB_API_KEY = st.secrets["TMDB_API_KEY"] # ← Replace with your TMDB API key
+TMDB_API_KEY = st.secrets["TMDB_API_KEY"] 
 
 @st.cache_data
 def get_poster(title):
@@ -202,7 +202,7 @@ def get_poster(title):
 # Main UI
 # ----------------------------------------------------
 st.markdown("<h1 align='center'>🍿 Movie Recommendation System</h1>", unsafe_allow_html=True)
-st.markdown("<p align='center'>Find movies similar to your favorite one — powered by AI and cinema magic!</p>", unsafe_allow_html=True)
+st.markdown("<p align='center'>Lights. Camera. Suggestions. Explore the world of movies you’ll love!</p>", unsafe_allow_html=True)
 
 movie_name = st.text_input("🎞️ Enter a movie name to get recommendations:")
 
